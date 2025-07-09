@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🧑‍💻 Passionate iOS developer since 2016 — Swift & SwiftUI are my playground.
+- 🧑‍💻 Passionate iOS developer since 2016 — Obj-c, Swift & SwiftUI are my playground.
 - 🌍 CTO at [Tribe](https://triberunning.app) — helping runners connect and train together.
 - 🎬 Building [Ciaky](https://ciaky.app) — your AI-powered movie buddy.
 - 🧠 Currently learning Nest.js, Supabase, and AI integration to level up as a full-stack dev.
