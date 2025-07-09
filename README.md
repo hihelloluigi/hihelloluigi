@@ -1,10 +1,8 @@
-## Hi, I'm Luigi 👋
+# Hi, I'm Luigi 👋
 
-### iOS Engineer • Startup CTO • Tech Enthusiast
+## iOS Engineer • Startup CTO • Tech Enthusiast
 
----
-
-#### About Me
+### About Me
 
 - 🧑‍💻 Passionate iOS developer since 2016 — Swift & SwiftUI are my playground.
 - 🌍 CTO at [Tribe](https://triberunning.app) — helping runners connect and train together.
